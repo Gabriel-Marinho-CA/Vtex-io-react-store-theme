@@ -1,0 +1,10 @@
+
+  {
+    "custom-header": {
+      "component": "Customheader"
+    },
+    "header-down": {
+      "component": "HeaderDown"
+    }
+  }
+
